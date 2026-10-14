@@ -2,7 +2,7 @@
 
 WiFi and BLE toolkit for the ESP32-WROOM-32. One OLED, one button, no SD card, no PC tether. Everything runs from the menu, and firmware updates come in over WiFi.
 
-Started as a weekend experiment to see how much a ₹200 board could actually do. Turned into a full toolkit that fits in your pocket.
+Started as a weekend experiment to see how much a ₹500 board could actually do. Turned into a full toolkit that fits in your pocket.
 
 ---
 
