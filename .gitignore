@@ -1,0 +1,16 @@
+build/
+*.elf
+*.hex
+*.map
+*.d
+*.o
+
+.vscode/
+.idea/
+*.code-workspace
+
+.DS_Store
+Thumbs.db
+
+secrets.h
+wifi_config.h
