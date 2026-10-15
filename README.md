@@ -88,7 +88,6 @@ Grab the latest `.bin` from the `firmware/` folder in this repo. Flash the four 
 | `boot_app0.bin` | `0xe000` |
 | `ALIEN-ESP.ino.bin` | `0x10000` |
 
-Or use the merged bin if there is one — flash at `0x0`.
 
 **From source**
 
