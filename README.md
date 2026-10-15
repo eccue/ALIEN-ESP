@@ -105,8 +105,6 @@ arduino-cli lib install "RF24"
 arduino-cli compile --fqbn esp32:esp32:esp32:PartitionScheme=min_spiffs ALIEN-ESP/ALIEN-ESP.ino
 ```
 
-The `min_spiffs` partition scheme is required. It provides the two OTA slots the update system uses.
-
 ---
 
 ## Using it
